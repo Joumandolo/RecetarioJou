@@ -1,0 +1,115 @@
+.text1{
+	font-family:Comic Sans MS;
+	Color:#999999;
+	text-decoration:none;
+	font-size:8pt;
+	text-align:center
+	}
+	
+.text2{
+	font-family:Comic Sans MS;
+	Color:#ffffff;
+	text-decoration:none;
+	font-size:8pt;
+	text-align:center
+	}
+
+.text3{
+	font-family:Comic Sans MS;
+	Color:#999999;
+	text-decoration:none;
+	font-size:8pt;
+	}
+
+.botonlogin{
+	font-family:Comic Sans MS;
+	Color:#ffffff;
+	font-size:8pt;
+	background-color:#999999;
+	border:1px solid #999999
+	}
+
+.inputext{
+	font-family:Comic Sans MS;
+	Color:#999999;
+	font-size:8pt;
+	border:1px solid #999999
+	}
+
+.tablalogin1{
+	border-left-style:solid;
+	border-left-color:#123257;
+	border-left-width:1px;
+	}
+	
+.tablalogin2{
+	border-right-style:solid;
+	border-right-color:#123257;
+	border-right-width:1px;
+	}
+.tablalogin3{
+	border-right-style:solid;
+	border-right-color:#123257;
+	border-right-width:1px;
+	border-left-style:solid;
+	border-left-color:#123257;
+	border-left-width:1px;
+	}
+
+.borde1{
+	border-style:solid;
+	border-color:#123257;
+	border-width:1px;
+	}
+
+.alfabeto{
+	font-family:Comic Sans MS;
+	Color:#999999;
+	text-decoration:none;
+	font-size:8pt;
+	text-align:center
+	}
+
+.tabla1{
+	border-color:#999999;
+	border-style:solid;
+	border-width:1px;
+	text-align:center
+	}
+
+.menu{
+	font-family:Comic Sans MS;
+	Color:#999999;
+	text-decoration:none;
+	font-size:10pt;
+	font-weight: bold
+	}
+	
+.altn{
+	font-family:Comic Sans MS;
+	font-size : 8pt;
+	color: #ffffff;
+	background-color: #666666;
+	text-decoration:none;
+}
+
+.tit{
+	font-family:Comic Sans MS;
+	font-size : 8pt;
+	color: #ffffff;
+	background-color: #333333;
+	font-weight: bold;
+	text-decoration:none;
+}
+
+.fs{
+	background-color:#ffffff;
+	font-weight:bold;
+	text-align:center;
+	}
+
+.da{
+	background-color:#F0E68C;
+	font-weight:bold;
+	text-align:center;
+	}
